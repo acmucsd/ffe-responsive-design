@@ -4,6 +4,7 @@
   border-radius: 4px;
   padding: 0.5rem;
 }
+
 .userInteractions {
   display: flex;
   justify-content: space-between;
@@ -12,4 +13,10 @@
 .likesContainer {
   display: flex;
   align-items: center;
+}
+
+/* Activity 4: Use width, max-width, and height to make the image responsive
+Feel free to experiment with aspect-ratio as well */
+
+.dogImage {
 }
